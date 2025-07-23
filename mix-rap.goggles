@@ -1,7 +1,7 @@
-! name: Mix Rap & Production
-! description: Favorise les sites pro pour le mixage et mastering dans le rap
-! public: true
-! author: Goggles 101
+name: Mix Rap & Production
+description: Favorise les sites pro pour le mixage et mastering dans le rap
+version: 1
+public: true
 
 $boost site:genius.com
 $boost site:soundonsound.com
