@@ -3,11 +3,11 @@ description: Favorise les sites pro pour le mixage et mastering dans le rap
 version: 1
 public: true
 
-$boost site:genius.com
-$boost site:soundonsound.com
-$boost site:youlean.co
-$boost site:pluginboutique.com
-$boost site:youtube.com
-$downrank site:pinterest.com
-$downrank site:reddit.com
-$downrank site:quora.com
+boost: "site:genius.com"
+boost: "site:soundonsound.com"
+boost: "site:youlean.co"
+boost: "site:pluginboutique.com"
+boost: "site:youtube.com"
+downrank: "site:pinterest.com"
+downrank: "site:reddit.com"
+downrank: "site:quora.com"
