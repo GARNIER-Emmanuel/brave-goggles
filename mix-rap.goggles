@@ -1,10 +1,10 @@
 ! name: Mix Rap & Production
-! description: Favorise les sources pro pour mix rap, plugins et mastering
+! description: Favorise les sites pro pour le mixage et mastering dans le rap
+! version: 1
 ! public: true
 
 $boost site:genius.com
 $boost site:soundonsound.com
-$boost site:soundcloud.com
 $boost site:youlean.co
 $boost site:pluginboutique.com
 $boost site:youtube.com
