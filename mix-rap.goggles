@@ -3,6 +3,9 @@ description: Favorise les sites pro pour le mixage et mastering dans le rap
 version: 1
 author: Emmanuel Garnier
 public: true
+categories:
+  - music
+  - entertainment
 
 boost: "site:genius.com"
 boost: "site:soundonsound.com"
